@@ -1,5 +1,5 @@
-# Customer_Churn
-## Customer Churn predictive model
+# Customer Churn
+## Marketing Analytics: Predicting Customer Churn with Python
 
 <img src="AS-churn.png">
 
